@@ -13,6 +13,7 @@
 		199EF2EE235496D500177AD2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 199EF2ED235496D500177AD2 /* Assets.xcassets */; };
 		199EF2F1235496D500177AD2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 199EF2EF235496D500177AD2 /* LaunchScreen.storyboard */; };
 		199EF2F92354A31300177AD2 /* Sample1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199EF2F82354A31300177AD2 /* Sample1.swift */; };
+		199EF2FB2354A55F00177AD2 /* Sample2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199EF2FA2354A55F00177AD2 /* Sample2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		199EF2F0235496D500177AD2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		199EF2F2235496D500177AD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		199EF2F82354A31300177AD2 /* Sample1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample1.swift; sourceTree = "<group>"; };
+		199EF2FA2354A55F00177AD2 /* Sample2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				199EF2EF235496D500177AD2 /* LaunchScreen.storyboard */,
 				199EF2F2235496D500177AD2 /* Info.plist */,
 				199EF2F82354A31300177AD2 /* Sample1.swift */,
+				199EF2FA2354A55F00177AD2 /* Sample2.swift */,
 			);
 			path = GitExercise;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				199EF2FB2354A55F00177AD2 /* Sample2.swift in Sources */,
 				199EF2E9235496D200177AD2 /* ViewController.swift in Sources */,
 				199EF2E7235496D200177AD2 /* AppDelegate.swift in Sources */,
 				199EF2F92354A31300177AD2 /* Sample1.swift in Sources */,

@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  GitExercise
-//
-//  Created by Prabhat on 14/10/19.
-//  Copyright © 2019 Prabhat. All rights reserved.
-//
 
 import UIKit
 
@@ -14,7 +7,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
+    
+    override func viewDidAppear(_ animated: Bool) {
+        //Do any work after view appear
+    }
 
 }
 

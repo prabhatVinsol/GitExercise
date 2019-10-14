@@ -11,6 +11,10 @@ class ViewController: UIViewController {
     override func viewDidAppear(_ animated: Bool) {
         //Do any work after view appear
     }
+    
+    private func showMessage() {
+        print("Hello World!")
+    }
 
 }
 

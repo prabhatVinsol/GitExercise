@@ -26,6 +26,8 @@
 		199EF2F2235496D500177AD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		199EF2F82354A31300177AD2 /* Sample1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample1.swift; sourceTree = "<group>"; };
 		199EF2FA2354A55F00177AD2 /* Sample2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample2.swift; sourceTree = "<group>"; };
+		199EF2FC2354A75400177AD2 /* Location1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Location1.gpx; sourceTree = "<group>"; };
+		199EF2FD2354A78300177AD2 /* Playground1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Playground1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,8 @@
 				199EF2F2235496D500177AD2 /* Info.plist */,
 				199EF2F82354A31300177AD2 /* Sample1.swift */,
 				199EF2FA2354A55F00177AD2 /* Sample2.swift */,
+				199EF2FC2354A75400177AD2 /* Location1.gpx */,
+				199EF2FD2354A78300177AD2 /* Playground1.playground */,
 			);
 			path = GitExercise;
 			sourceTree = "<group>";

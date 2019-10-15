@@ -31,6 +31,7 @@ class ViewController: UIViewController {
     
     private func methodAddedForFeature2() {
         print("Branch feature2")
+        print("Branch feature2_2")
     }
     
 }

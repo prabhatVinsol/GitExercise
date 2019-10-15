@@ -5,7 +5,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        print("View did load")
     }
     
     override func viewDidAppear(_ animated: Bool) {

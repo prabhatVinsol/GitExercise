@@ -1,3 +1,4 @@
 #Some pch files to be ignored. It is only for Test purpose
 *.pch
 *.xcuserstate
+xcuserdata/

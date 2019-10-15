@@ -19,5 +19,9 @@ class ViewController: UIViewController {
     private func secondPrintMessage() {
         print("Hello")
     }
+    
+    private func masterBranchMessage() {
+        print("Master branch")
+    }
 }
 

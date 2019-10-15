@@ -28,5 +28,8 @@ class ViewController: UIViewController {
         print("Branch feature1")
     }
     
+    private func methodAddedForFeature2() {
+        print("Branch feature2")
+    }
 }
 

@@ -9,7 +9,7 @@ class ViewController: UIViewController {
     }
     
     override func viewDidAppear(_ animated: Bool) {
-        //Do any work after view appear
+        print("View did appear")
     }
     
     private func printMessage() {

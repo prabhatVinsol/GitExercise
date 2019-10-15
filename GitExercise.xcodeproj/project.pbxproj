@@ -26,6 +26,7 @@
 		199EF2F2235496D500177AD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		199EF2F82354A31300177AD2 /* Sample1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample1.swift; sourceTree = "<group>"; };
 		199EF2FA2354A55F00177AD2 /* Sample2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample2.swift; sourceTree = "<group>"; };
+		199EF3002355AC2200177AD2 /* TestFileToIgnore.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestFileToIgnore.pch; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +67,7 @@
 				199EF2F2235496D500177AD2 /* Info.plist */,
 				199EF2F82354A31300177AD2 /* Sample1.swift */,
 				199EF2FA2354A55F00177AD2 /* Sample2.swift */,
+				199EF3002355AC2200177AD2 /* TestFileToIgnore.pch */,
 			);
 			path = GitExercise;
 			sourceTree = "<group>";

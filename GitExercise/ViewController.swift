@@ -23,5 +23,10 @@ class ViewController: UIViewController {
     private func masterBranchMessage() {
         print("Master branch")
     }
+    
+    private func methodAdddedForFeature1() {
+        print("Branch feature1")
+    }
+    
 }
 

@@ -2,7 +2,8 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    private var featureTwoVariable = 2
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         print("View did load")
@@ -31,5 +32,6 @@ class ViewController: UIViewController {
     private func methodAddedForFeature2() {
         print("Branch feature2")
     }
+    
 }
 

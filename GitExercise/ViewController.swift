@@ -15,5 +15,9 @@ class ViewController: UIViewController {
     private func printMessage() {
         print("Hiiiiii")
     }
+    
+    private func secondPrintMessage() {
+        print("Hello")
+    }
 }
 
